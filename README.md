@@ -1,6 +1,12 @@
-## Hi there 👋 A little bit about me:
+## Hi there 👋 Welcome!
 
-- 🔭 I'm studying applied mathematics and computer science. 
-- 🌱 I program in C++ and Python, also know SQL, HTML and RenPy.
-- 💬 I run a blog about living with a disability.
-- ⚡ My goal is to start working in the field of digital inclusion.
+### A little bit about Me:
+🎓 I'm studying applied mathematics and computer science. 
+
+✍️ Programming in C++ and Python, also know how to work with SQL, Django, HTML and RenPy.
+
+🌱 I'm interested in developing visual novels, writing stories, and photography.
+
+💬 I'm running a [blog](https://vk.com/gray_strong_mousy) about living with a disability.
+
+⚡ I strive to help people simplify their lives through information technology. My goal is to start working in the field of digital inclusion.
