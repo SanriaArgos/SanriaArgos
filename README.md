@@ -3,7 +3,7 @@
 ### A little bit about Me:
 🎓 I'm studying applied mathematics and computer science. 
 
-✍️ Programming in C++ and Python, also know how to work with SQL, Django, HTML and RenPy.
+✍️ Programming in C++ and Python, also know how to work with PostgreSQL, SQLite, Django, HTML, CSS and RenPy.
 
 🌱 I'm interested in developing visual novels, writing stories, and photography.
 
