@@ -51,24 +51,24 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><b style="color:#5B39A8;">MedScheduler</b></td>
+      <td align="center"><b><a href="https://github.com/SanriaArgos/MedScheduler" style="color:#5B39A8; font-weight:bold;">MedScheduler</a></b></td>
       <td>A service for finding doctors and booking appointments</td>
       <td align="center"><code>C++</code> <code>PostgreSQL</code> <code>QT</code> <code>JavaScript</code> <code>Docker</code></td>
     </tr>
     <tr>
       <td align="center"><b style="color:#5B39A8;">Web Services</b></td>
-      <td><b>Blogicum</b> (blog platform) & <b>SplitCheck</b> (bill splitter)</td>
+      <td><b><a href="https://github.com/SanriaArgos/SplitCheck" style="color:#5B39A8; font-weight:bold;">SplitCheck</a></b> (bill splitter) and <b><a href="https://github.com/SanriaArgos/Blogicum" style="color:#5B39A8; font-weight:bold;">Blogicum</a></b> (blog platform)</td>
       <td align="center"><code>Python</code> <code>Django</code> <code>HTML</code> <code>CSS</code></td>
     </tr>
     <tr>
       <td align="center"><b style="color:#5B39A8;">Video Games</b></td>
-      <td>Visual novels <b>"Rise of the Bots"</b> and <b>"Walpurgis Spirit"</b></td>
+      <td>Visual novels "<b><a href="https://github.com/SanriaArgos/Rise-of-the-Bots" style="color:#5B39A8; font-weight:bold;">Rise of the Bots</a></b>" and "<b><a href="https://github.com/SanriaArgos/The-Walpurgis-Spirit" style="color:#5B39A8; font-weight:bold;">The Walpurgis Spirit</a></b>"</td>
       <td align="center"><code>Python</code> <code>Ren'Py</code></td>
     </tr>
     <tr>
       <td align="center"><b style="color:#5B39A8;">Academic Projects</b></td>
       <td>Unit-testing library, parsers, multithreading, and networking</td>
-      <td align="center"><code>C++</code> <code>C</code></td>
+      <td align="center"><code>C++</code> <code>C</code> <code>Cmake</code></td>
     </tr>
   </tbody>
 </table>
