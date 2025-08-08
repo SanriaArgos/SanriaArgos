@@ -21,11 +21,12 @@
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-5B39A8?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-5B39A8?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/C-5B39A8?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-5B39A8?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/PostgreSQL-5B39A8?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-5B39A8?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-5B39A8?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML-5B39A8?style=for-the-badge&logo=html&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-5B39A8?style=for-the-badge&logo=css&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-5B39A8?style=for-the-badge&logo=javascript&logoColor=white" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Git-5B39A8?style=for-the-badge&logo=git&logoColor=white" />
@@ -33,6 +34,7 @@
     <img src="https://img.shields.io/badge/Django-5B39A8?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/CMake-5B39A8?style=for-the-badge&logo=cmake&logoColor=white" />
     <img src="https://img.shields.io/badge/Ren'Py-5B39A8?style=for-the-badge&logo=renpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-5B39A8?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
 </div>
 
@@ -51,7 +53,7 @@
     <tr>
       <td align="center"><b style="color:#5B39A8;">MedScheduler</b></td>
       <td>A service for finding doctors and booking appointments</td>
-      <td align="center"><code>C++</code> <code>PostgreSQL</code> <code>QT</code> <code>Docker</code></td>
+      <td align="center"><code>C++</code> <code>PostgreSQL</code> <code>QT</code> <code>JavaScript</code> <code>Docker</code></td>
     </tr>
     <tr>
       <td align="center"><b style="color:#5B39A8;">Web Services</b></td>
@@ -86,7 +88,7 @@
     <td width="33%" valign="top">
       <h4 align="center" style="color:#5B39A8;">The Promoter of inclusion</h4>
       <p align="center" style="color:#D8D8D8;">
-        On my <a href="https://vk.com/gray_strong_mousy" style="color:#5B39A8; font-weight:bold;">blog</a>, I share my personal journey of living with a disability, aiming to foster understanding and connection
+        On my <b><a href="https://vk.com/gray_strong_mousy" style="color:#5B39A8; font-weight:bold;">blog</a></b>, I share my personal journey of living with a disability, aiming to foster understanding and connection
       </p>
     </td>
     <td width="33%" valign="top">
