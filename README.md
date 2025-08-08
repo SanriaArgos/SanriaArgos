@@ -17,7 +17,7 @@
 
 ---
 
-### <p align="center" style="color:#5B39A8;">🛠Tech Stack</p>
+### <p align="center" style="color:#5B39A8;">Tech Stack</p>
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/C%2B%2B-5B39A8?style=for-the-badge&logo=cplusplus&logoColor=white" />
