@@ -49,7 +49,7 @@
   <tbody>
     <tr>
       <td align="center"><b><a href="https://github.com/SanriaArgos/MedScheduler" style="color:#5B39A8; font-weight:bold;">MedScheduler</a></b></td>
-      <td>A service for finding doctors and booking appointments <b><a href="https://vk.com/wall230441658_6348" style="color:#5B39A8; font-weight:bold;">(link to the product presentation)</a></b></td>
+      <td>A service for finding doctors and booking appointments (<b><a href="https://vk.com/wall230441658_6348" style="color:#5B39A8; font-weight:bold;">link to the product presentation</a></b>)</td>
       <td align="center"><code>C++</code> <code>PostgreSQL</code> <code>QT</code> <code>JavaScript</code> <code>Docker</code></td>
     </tr>
     <tr>
